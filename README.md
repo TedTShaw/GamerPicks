@@ -1,2 +1,2 @@
 # GamerPicks
-Initial Commit
+Initial Com
